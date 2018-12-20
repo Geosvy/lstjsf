@@ -1,4 +1,5 @@
 lstjsf will allow the user to list the contents of an Edgetech Sonar data file in JSF format. The user may get a count
 of subbottom and sidescan records within the file. List information about the sidescan sonar data, and list information
 from the subbottom data.
+lstjsf should work on any *nix based OS.
 
